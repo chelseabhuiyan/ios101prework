@@ -1,6 +1,6 @@
 # Prework - *Name of App Here*
 
-Submitted by: **Chelsea Bhuiyab**
+Submitted by: **Chelsea Bhuiyan**
 
 **Name of your app** is an app that... [TODO] 
 
