@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *NAME OF THE APP*
 
 Submitted by: **Chelsea Bhuiyan**
 
@@ -22,20 +22,30 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 Instagram
+
 Unsending messages 
 Stories that last for 24 hrs only
 
+
 Imessage
+
 Editing messages
 Animations when certain phrases are said like congratulations and happy birthday
 
+
 Snapchat
+
 Filters on pictures
 See when someone is typing
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+##App Brainstorming
+
+I would like to make a health and fitness app where you can make workout plan, keep track of your diet, and write down goals. You can also keep track of other things such as mental health, menstrational cycle, and sleep pattterns all in one.
 
 ## License
 
